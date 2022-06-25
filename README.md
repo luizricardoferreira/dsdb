@@ -1,2 +1,2 @@
 # dsdb
-Data science e big data - UFPR
+data science e big data
