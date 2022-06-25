@@ -9,3 +9,6 @@ Informação nova 3.
 Informação nova 4.
 
 Informação nova 5.
+
+LINHA 6 ADICIONADA
+
